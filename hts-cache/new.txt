@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:48:33	964/964	---MCZ	200	added ('OK')	text/html	date:Mon,%2016%20Aug%202021%2020:48:34%20GMT	https://meth.digital/robots.txt		(from )
+23:48:33	2436/2436	---MCZ	200	added ('OK')	text/html	date:Mon,%2016%20Aug%202021%2020:48:34%20GMT	https://meth.digital/	C:/Benim%20Web%20Sitem/vlad/meth.digital/index.html	(from )
+23:48:34	173842/173842	---MCZ	200	added ('OK')	text/css	etag:W/%224a11627ef528135908c58c6547674343%22	https://pro.fontawesome.com/releases/v5.13.1/css/all.css	C:/Benim%20Web%20Sitem/vlad/pro.fontawesome.com/releases/v5.13.1/css/all.css	(from https://meth.digital/)
+23:48:34	15565/15565	---MCZ	200	added ('OK')	text/css	date:Mon,%2016%20Aug%202021%2020:48:35%20GMT	https://meth.digital/css/app.22b042d5.css	C:/Benim%20Web%20Sitem/vlad/meth.digital/css/app.22b042d5.css	(from https://meth.digital/)
+23:48:34	32262/32262	---MCZ	200	added ('OK')	text/css	date:Mon,%2016%20Aug%202021%2020:48:35%20GMT	https://meth.digital/css/chunk-vendors.05cc17e3.css	C:/Benim%20Web%20Sitem/vlad/meth.digital/css/chunk-vendors.05cc17e3.css	(from https://meth.digital/)
+23:48:35	2003799/2003799	---MCZ	200	added ('OK')	application/javascript	date:Mon,%2016%20Aug%202021%2020:48:35%20GMT	https://meth.digital/js/app.6e444d5f.js	C:/Benim%20Web%20Sitem/vlad/meth.digital/js/app.6e444d5f.js	(from https://meth.digital/)
+23:48:39	30580757/30580757	---MCZ	200	added ('OK')	application/javascript	date:Mon,%2016%20Aug%202021%2020:48:36%20GMT	https://meth.digital/js/chunk-vendors.ddae15d6.js	C:/Benim%20Web%20Sitem/vlad/meth.digital/js/chunk-vendors.ddae15d6.js	(from https://meth.digital/)
